@@ -13,10 +13,13 @@ body {
 
 h1{
     text-align: center;
+    color: white;
+    font-weight:900;
+    font-size: 5rem;
 }
 
 .square{
-    width: 6rem;
+    width: 7rem;
     aspect-ratio: 1 / 1 ;
     margin: 1rem;
     display: flex;
