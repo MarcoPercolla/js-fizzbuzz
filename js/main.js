@@ -10,22 +10,22 @@ for (let i = 1; i <= 100; i++) {
     
 
     if ((resto3 == 0) && (resto5 == 0)) {
-        console.log(i);
+        
         newDiv.innerHTML = `BuzzFizz`;
         newDiv.classList.add("orange");
         
     } else if (resto3 == 0) {
-        console.log(i);
+        
         newDiv.innerHTML = `Buzz`;
         newDiv.classList.add("red");
         
     } else if (resto5 == 0) {
-        console.log(i);
+        
         newDiv.innerHTML = `Fizz`;
         newDiv.classList.add("green");
         
     } else {
-        console.log(i);
+        
         newDiv.classList.add("white");
     }
 
