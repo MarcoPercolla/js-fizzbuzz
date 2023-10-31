@@ -16,7 +16,7 @@ h1{
 }
 
 .square{
-    width: 5rem;
+    width: 6rem;
     aspect-ratio: 1 / 1 ;
     margin: 1rem;
     display: flex;
